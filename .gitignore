@@ -6,7 +6,7 @@ credentials.json
 *.docx
 __pycache__
 .ipynb_checkpoints
-*.txt
+
 
 
 # Allow
